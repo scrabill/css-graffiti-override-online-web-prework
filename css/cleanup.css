@@ -10,5 +10,6 @@ div + div {
   display:none;
 }
 
-div#tag-3
+div#tag-3,
+div#wall > div#tag-3.wicked
  {display:none}
