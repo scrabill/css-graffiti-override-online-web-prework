@@ -10,4 +10,6 @@ div + div {
   display:none;
 }
 
-div#tag-3 {display:none}
+div#tag-3,
+div#tag-2
+ {display:none}
