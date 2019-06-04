@@ -6,4 +6,8 @@
   display:none;
 }
 
+div + div {
+  display:none;
+}
+
 div#tag-3 {display:none}
